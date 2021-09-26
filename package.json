@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UltimateAngular/typescript-basics-seed.git"
+    "url": "git+https://github.com/ante-rukavina/typescript-basics-seed.git"
   },
   "keywords": [
     "typescript"
@@ -25,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/UltimateAngular/typescript-basics-seed/issues"
   },
-  "homepage": "https://github.com/UltimateAngular/typescript-basics-seed#readme"
+  "homepage": "https://github.com/ante-rukavina/typescript-basics-seed#readme"
 }
